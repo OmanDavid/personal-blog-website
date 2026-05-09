@@ -1,7 +1,7 @@
-import Header from "./components/Header.jsx";
-import About from "./components/About.jsx";
-import ArticleList from "./components/ArticleList.jsx";
-import logo from "./assets/logo.png"
+import Header from "./Header.jsx";
+import About from "./About.jsx";
+import ArticleList from "./ArticleList.jsx";
+import logo from "../assets/logo.png"
 
 const articles = [
     { id: 1, title: "My First Article", date: "2024-06-01", preview: "First article" },
